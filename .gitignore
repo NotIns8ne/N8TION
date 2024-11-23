@@ -1,0 +1,26 @@
+# Operating system files
+/.DS_Store
+/Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Build artifacts
+/build/
+/dist/
+
+# IDE files
+/.idea/
+/.vscode/
+
+# Package managers
+/node_modules/
+/yarn.lock
+/package-lock.json
+
+# Local configuration
+/config.local.js
+/secrets.json
